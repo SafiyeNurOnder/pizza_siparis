@@ -1,0 +1,11 @@
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\pizza_siparis\pizza_siparis\bin\Debug\pizza_siparis.exe.config
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\pizza_siparis\pizza_siparis\bin\Debug\pizza_siparis.exe
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\pizza_siparis\pizza_siparis\bin\Debug\pizza_siparis.pdb
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\pizza_siparis\pizza_siparis\obj\Debug\pizza_siparis.csproj.AssemblyReference.cache
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\pizza_siparis\pizza_siparis\obj\Debug\pizza_siparis.csproj.SuggestedBindingRedirects.cache
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\pizza_siparis\pizza_siparis\obj\Debug\pizza_siparis.Form1.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\pizza_siparis\pizza_siparis\obj\Debug\pizza_siparis.Properties.Resources.resources
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\pizza_siparis\pizza_siparis\obj\Debug\pizza_siparis.csproj.GenerateResource.cache
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\pizza_siparis\pizza_siparis\obj\Debug\pizza_siparis.csproj.CoreCompileInputs.cache
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\pizza_siparis\pizza_siparis\obj\Debug\pizza_siparis.exe
+C:\Users\safiye nur önder\Desktop\proje_otoGaleri\pizza_siparis\pizza_siparis\obj\Debug\pizza_siparis.pdb
